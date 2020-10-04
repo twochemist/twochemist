@@ -9,5 +9,5 @@
 - 🅰️ Plan to learn Angular Web App (in 2021)
 - 🌐 WordPress enthusiast 
 - 💬 Whether you just want to give a shout out or are looking to connect, feel free to do it
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-manuel-arjona/) & [GitHub] https://twochemist.github.io/)
-- ✏️ Drawings and Illustrations  [Instagram](https://www.instagram.com/chemistautomotive/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-manuel-arjona/) & [GitHub] (https://twochemist.github.io/)
+- ✏️ Follow my Drawings & Paints in [Instagram](https://www.instagram.com/chemistautomotive/)
