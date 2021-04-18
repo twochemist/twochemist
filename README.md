@@ -1,7 +1,7 @@
 ### Hi there, I’m Antonio 👋
 
 - 🚘 Professionally connected with the Automotive Industry
-- 💼 QA Engineer for lighting & electronics systems
+- 💼 Exterior Lighting & Electronics Systems
 - 📍 Based in NRW, Germany
 - 🎓 M.Sc. Chemistry, University of Granada, Spain
 - 👨🏼‍💻 Learning Web Development with the Malandriners at [danielprimo.io](https://www.danielprimo.io/)
