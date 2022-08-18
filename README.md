@@ -5,8 +5,6 @@ Chemistdev</a></h1>
 - 👨🏼‍💻 Software Developer  
 - 💚 Web Applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <p align="left"> <a href="https://twitter.com/chemistdev" target="blank"><img src="https://img.shields.io/twitter/follow/chemistdev?logo=twitter&style=for-the-badge" alt="chemistdev" /></a> </p>
 
 <a target="_blank" align="center">
