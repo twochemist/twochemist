@@ -1,12 +1,9 @@
-### Hi there 👋
-
-- 👨🏼‍💻 Software Developer  
-- 💚 Web Applications
-
-
 <h1 align="center">Hi 👋, I'm <a href="https://antonioarjona.dev" target="blank">
 Chemistdev</a></h1>
 <h3 align="center">Passionate about Software, Hardware and everything in between</h3>
+
+- 👨🏼‍💻 Software Developer  
+- 💚 Web Applications
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
