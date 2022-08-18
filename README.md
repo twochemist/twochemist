@@ -1,4 +1,4 @@
-### Hi there, I’m Antonio 👋
+### Hi there 👋
 
 - 👨🏼‍💻 Software Developer  
 - 💚 Web Applications
