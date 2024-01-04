@@ -20,7 +20,7 @@ Chemistdev</a></h1>
 </div>
 
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=twochenmist&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=twochemist&show_icons=true" />
 
 
 <!-- GitHub section: END -->
