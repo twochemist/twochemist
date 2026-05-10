@@ -51,10 +51,63 @@ Chemistdev</a></h1>
 
 ---
 
-## Currently Learning
+## Currently in
 
 - Advanced JavaScript, TypeScript, Backend Development, API Design, Software Architecture, Cloud & DevOps fundamentals
 
+# Antonio Arjona
+
+```js
+
+const antonio = {
+
+  role: [
+
+    "Supplier Industrialization Engineer",
+
+    "Software Developer",
+
+    "Operations & Systems Thinking"
+
+  ],
+
+  industries: [
+
+    "Automotive",
+
+    "Manufacturing",
+
+    "Supply Chain"
+
+  ],
+
+  currentFocus: [
+
+    "Backend Development",
+
+    "TypeScript",
+
+    "Python",
+
+    "Automation",
+
+    "System Design"
+
+  ],
+
+  interests: [
+
+    "Industrial Software",
+
+    "Developer Tools",
+
+    "Technical Strategy",
+
+    "Process Optimization"
+
+  ]
+
+}
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twochemist&layout=compact&theme=transparent" height="170">
