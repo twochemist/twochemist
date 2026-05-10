@@ -25,39 +25,7 @@ Chemistdev</a></h1>
 
 <!-- GitHub section: END -->
 
-# Antonio Arjona Pulido
 
-### Industrial Engineering × Software Development × Operations Strategy
-
-Building systems at the intersection of:
-
-- Manufacturing
-
-- Supply Chain
-
-- Software Engineering
-
-- Automation
-
-- Technical Consulting
-
----
-
-## About Me
-
-I work in complex industrial environments where execution matters.
-
-My background combines:
-
-- Supplier Industrialization Engineering
-
-- Automotive manufacturing
-
-- Operations problem-solving
-
-- Technical project leadership
-
-- Software development
 
 I am particularly interested in:
 
@@ -89,24 +57,6 @@ Currently expanding my expertise in:
 
 ---
 
-## What I Bring
-
-- Strong execution mindset
-
-- Real-world manufacturing experience
-
-- Cross-functional communication
-
-- Technical problem solving under pressure
-
-- Systems thinking
-
-- Consulting-oriented analysis
-
-- Ability to bridge operations and software
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -129,51 +79,7 @@ Currently expanding my expertise in:
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-### Industrial & Operations
-
-- Supplier Industrialization
-
-- Automotive Lighting Systems
-
-- Manufacturing Readiness
-
-- Process Optimization
-
-- Quality Systems
-
-- Technical Escalation Management
-
 ---
-
-## Featured Interests
-
-- Industrial Software
-
-- Automation
-
-- Manufacturing Intelligence
-
-- Technical Leadership
-
-- Operations Strategy
-
-- Backend Engineering
-
-- Developer Productivity
-
-- Digital Transformation
-
----
-
-## Selected Projects
-
-### Industrial & Technical
-
-- Manufacturing and supplier workflows
-
-- Process optimization concepts
-
-- Technical operational analysis
 
 ### Software Development
 
@@ -184,28 +90,6 @@ Currently expanding my expertise in:
 - API and automation exercises
 
 - Personal developer tooling
-
----
-
-## Philosophy
-
-I believe software is ultimately about solving operational problems.
-
-The best engineers understand:
-
-- systems
-
-- constraints
-
-- tradeoffs
-
-- execution
-
-- people
-
-- business impact
-
-Not just syntax.
 
 ---
 
