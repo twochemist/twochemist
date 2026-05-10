@@ -25,36 +25,6 @@ Chemistdev</a></h1>
 
 <!-- GitHub section: END -->
 
-
-
-I am particularly interested in:
-
-- Backend systems
-
-- Process automation
-
-- Developer tools
-
-- Industrial digitalization
-
-- Scalable operational workflows
-
-- Technical strategy
-
-Currently expanding my expertise in:
-
-- JavaScript / TypeScript
-
-- Python
-
-- Backend architecture
-
-- APIs
-
-- System design
-
-- DevOps fundamentals
-
 ---
 
 ## Tech Stack
@@ -81,39 +51,11 @@ Currently expanding my expertise in:
 
 ---
 
-### Software Development
-
-- JavaScript and TypeScript learning projects
-
-- Backend-focused experiments
-
-- API and automation exercises
-
-- Personal developer tooling
-
----
-
 ## Currently Learning
 
-- Advanced JavaScript
+- Advanced JavaScript, TypeScript, Backend Development, API Design, Software Architecture, Cloud & DevOps fundamentals
 
-- TypeScript
 
-- Backend Development
-
-- API Design
-
-- Software Architecture
-
-- Cloud & DevOps fundamentals
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=twochemist&show_icons=true&theme=transparent" height="170">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twochemist&layout=compact&theme=transparent" height="170">
 
